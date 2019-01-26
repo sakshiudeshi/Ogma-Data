@@ -15,9 +15,9 @@ inputs wrt the number of iterations.
 This folder contains all the images which show the growth of the errors wrt
 the iterations.
 
-*Grammars
+* Grammars
 This folder contains the txt file of all the grammars
 
-*Master Data Jaccard Threshold Variation
+* Master Data Jaccard Threshold Variation
 This folder shows the data of RQ4 of the paper
 
